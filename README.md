@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mateo Grifsha
-- 👀 I’m interested in Data Analysis and Machine Learning using Python
-- 🌱 I’m currently learning Data Analysis on Kaggle.com
-- 💞️ I’m looking to collaborate on beginner Data Analysis Projects
+- 👀 I’m interested in Web Development and Web Apps using HTML, CSS, JavaScript and frameworks.
+- 🌱 I’m currently learning Vue.js
+- 💞️ I’m looking to collaborate on beginner Web Develpment Projects
 - 📫 How to reach me: hit me up on Instagram @mateo.grifsha :)
 
 <!---
